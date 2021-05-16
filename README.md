@@ -9,18 +9,18 @@ P<table>
 <h3 align="center">Python,Computer Vision and Embedded Systems Enthusiast</h3>
 
 <p align='center'>
-<a target="_blank" href="https://www.linkedin.com/in/shekhar-verma-626887137"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/master/Assets/linkedin.png"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://twitter.com/shekhu_verma"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/master/Assets/twitter.png"></a>&nbsp;&nbsp;
-<a target="_blank" href="https://www.instagram.com/shekhuverma_"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/master/Assets/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shekhar-verma-626887137" target="_blank"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/master/Assets/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/shekhu_verma" target="_blank"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/master/Assets/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/shekhuverma_" target="_blank"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/master/Assets/instagram.png"></a>&nbsp;&nbsp;
 </p>
 
 - 🔭 I’m currently working at **[Inochi]**
 - 🌱 I’m currently learning Interfacing custom USB interface using python
 - 💬 Brainstorm with me over tech and solving problems to make life better!
 - 👯 I’m looking to collaborate on combination of code and machine :robot:
-<!-- - 🤔 I’m looking for help with -->
 - 💬 Ask me about Computer vision, Arduino or any other random stuff always happy to help :smile:
 - 📫 How to reach me: **shekharvrm47@gmail.com**
+<!-- - 🤔 I’m looking for help with -->
 <!-- - ⚡ Fun fact: -->
 <!-- - 🤔 I’m looking for help with Statistics -->
 
@@ -36,6 +36,7 @@ P<table>
 </a>
 
 <!-- Links-->
+[email]: shekharvrm47@gmail.com
 [twitter]: https://twitter.com/shekhu_verma
 [instagram]: https://www.instagram.com/shekhuverma_
 [linkedin]: https://www.linkedin.com/in/shekhar-verma-626887137
