@@ -4,7 +4,7 @@
     <td><img src="https://profile-counter.glitch.me/shekhuverma/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table>
-<h1 align="center">Hi 👋, I'm Shekhar Verma</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Shekhar Verma</h1>
 <h3 align="center">Python,Computer Vision and Embedded Systems Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhuverma&label=Profile%20views&color=0e75b6&style=flat" alt="shekhuverma" /> </p>
