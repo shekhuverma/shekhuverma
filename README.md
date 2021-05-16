@@ -1,4 +1,4 @@
-P<table>
+<table>
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/shekhuverma/count.svg" alt="vistor count" height="50" /></td>
@@ -15,11 +15,11 @@ P<table>
 </p>
 
 - 🔭 I’m currently working at **[Inochi]**
-- 🌱 I’m currently learning Interfacing custom USB interface using python
+- 🌱 I’m currently learning Interfacing custom USB endpoint using python
 - 💬 Brainstorm with me over tech and solving problems to make life better!
-- 👯 I’m looking to collaborate on combination of code and machine :robot:
+- 👯 I’m looking to collaborate on **some combination of code and machine** :robot:
 - 💬 Ask me about Computer vision, Arduino or any other random stuff always happy to help :smile:
-- 📫 How to reach me: **shekharvrm47@gmail.com**
+- 📫 How to reach me: **shekharvrm47@gmail.com** or <a href="https://t.me/shekhuverma" target="_blank"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/master/Assets/telegram.png"></a>&nbsp;&nbsp;
 <!-- - 🤔 I’m looking for help with -->
 <!-- - ⚡ Fun fact: -->
 <!-- - 🤔 I’m looking for help with Statistics -->
@@ -40,4 +40,4 @@ P<table>
 [twitter]: https://twitter.com/shekhu_verma
 [instagram]: https://www.instagram.com/shekhuverma_
 [linkedin]: https://www.linkedin.com/in/shekhar-verma-626887137
-[Inochi]:https://www.inochihealthcare.com
+[Inochi Care]:https://www.inochihealthcare.com
