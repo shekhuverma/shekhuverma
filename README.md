@@ -8,9 +8,9 @@
 <h3 align="center">Python,Computer Vision and Embedded Systems Enthusiast</h3>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/shekhar-verma-626887137"><img height="30" src="https://github.com/shekhuverma/shekhuverma/blob/master/Assests/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/shekhu_verma"><img height="30" src="https://github.com/shekhuverma/shekhuverma/blob/master/Assests/twitter.png""></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/shekhuverma_"><img height="30" src="https://github.com/shekhuverma/shekhuverma/blob/master/Assests/instagram.png"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/shekhar-verma-626887137"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/blob/master/Assests/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/shekhu_verma"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/blob/master/Assests/twitter.png""></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/shekhuverma_"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/blob/master/Assests/instagram.png"></a>&nbsp;&nbsp;
 </p>
 
 
