@@ -7,9 +7,9 @@
 <h1 align="center">Hi 👋, I'm Shekhar Verma</h1>
 <h3 align="center">Python,Computer Vision and Embedded Systems Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhuvera&label=Profile%20views&color=0e75b6&style=flat" alt="shekhuvera" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhuvera&label=Profile%20views&color=0e75b6&style=flat" alt="shekhuverma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shekhuvera" alt="shekhuvera" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shekhuverma" alt="shekhuverma" /></a> </p>
 
 - 📫 How to reach me **shekharvrm47@gmail.com**
 
