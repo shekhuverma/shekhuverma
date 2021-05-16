@@ -14,12 +14,12 @@
 <a href="https://www.instagram.com/shekhuverma_" target="_blank"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/master/Assets/instagram.png"></a>&nbsp;&nbsp;
 </p>
 
-- 🔭 I’m currently working at **[Inochi]**
+- 🔭 I’m currently working at **[Inochi Care]**
 - 🌱 I’m currently learning Interfacing custom USB endpoint using python
 - 💬 Brainstorm with me over tech and solving problems to make life better!
 - 👯 I’m looking to collaborate on **some combination of code and machine** :robot:
 - 💬 Ask me about Computer vision, Arduino or any other random stuff always happy to help :smile:
-- 📫 How to reach me: **shekharvrm47@gmail.com** or <a href="https://t.me/shekhuverma" target="_blank"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/master/Assets/telegram.png"></a>&nbsp;&nbsp;
+- 📫 How to reach me: **shekharvrm47@gmail.com**
 <!-- - 🤔 I’m looking for help with -->
 <!-- - ⚡ Fun fact: -->
 <!-- - 🤔 I’m looking for help with Statistics -->
