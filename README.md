@@ -1,19 +1,36 @@
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/shekhuverma/count.svg" alt="vistor count" height="35" /></td>
-  </tr>
-</table>
-
+<!-- Heading -->
 <h1 align="center">Hi, I'm Shekhar Verma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h3 align="center">Python,Computer Vision and Embedded Systems Enthusiast</h3>
 
+<!-- Badges -->
+<!-- <p align='center'>
+<a href="https://visitor-badge.glitch.me/badge?page_id=shekhuverma.shekhuverma"> <img  src="https://visitor-badge.glitch.me/badge?page_id=shekhuverma.shekhuverma"> </a>
+<a href="https://github.com/shekhuverma/shekhuverma" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/shekhuverma/shekhuverma?label=profile%20updated&style=flat-square"></a>
+<a href="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" target="_blank"><img alt="GitHub hits" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github"></a>
+</p> -->
+
+<!-- Connect icons -->
 <p align='center'>
 <a href="https://www.linkedin.com/in/shekhar-verma-626887137" target="_blank"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/master/Assets/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/shekhu_verma" target="_blank"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/master/Assets/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/shekhuverma_" target="_blank"><img height="30" src="https://raw.githubusercontent.com/shekhuverma/shekhuverma/master/Assets/instagram.png"></a>&nbsp;&nbsp;
 </p>
 
+<!-- Badges -->
+<!-- <p>
+<a href="https://visitor-badge.glitch.me/badge?page_id=shekhuverma.shekhuverma"> <img  src="https://visitor-badge.glitch.me/badge?page_id=shekhuverma.shekhuverma"> </a>
+</p>
+ -->
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/shekhuverma/count.svg" alt="vistor count" height="25" /></td>
+  </tr>
+</table>
+
+<!-- About me -->
+### :scientist: About Me:
 - 🔭 I’m currently working at **[Inochi Care]**
 - 🌱 I’m currently learning about Interfacing custom USB endpoints using python!
 - 💬 Brainstorm with me over tech and solving problems to make life easier!
@@ -24,10 +41,11 @@
 <!-- - ⚡ Fun fact: -->
 <!-- - 🤔 I’m looking for help with Statistics -->
 
-<h3 align="left">Languages and Tools:</h3>
+
+### :computer: Languages and Tools:
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-**:zap: Recent Activity:**
+### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
