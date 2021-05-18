@@ -48,6 +48,7 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1](https://github.com/farmerkeith/BMP280-library/issues/1) in [farmerkeith/BMP280-library](https://github.com/farmerkeith/BMP280-library)
 <!--END_SECTION:activity-->
 
 
