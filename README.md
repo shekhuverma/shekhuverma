@@ -50,9 +50,8 @@
 
 ## :hammer_and_wrench: Skillset
 
-### :computer: Programming Languages
-1. Python
-2. C
+### :computer: Programming Languages -  Python , C
+### :computer: Embedded Systems -  STM32 , Arduino/AVR
 
 ### :zap: Recent Activity:
 
