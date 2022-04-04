@@ -1,6 +1,6 @@
 <!-- Heading -->
 <h1 align="center">Hi, I'm Shekhar Verma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h3 align="center">Engineer : Solving Problems you didn't know existed</h3>
+<h3 align="center">Engineer : Solving Problems you didn't know existed </h3>
 
 <!-- Badges -->
 <!-- <p align='center'>
@@ -37,6 +37,7 @@
 - 👯 I’m looking to collaborate on **some combination of code and machine** :robot:
 - 💬 Ask me about Computer vision, Embedded systems or any other random stuff always happy to help :smile:
 - 📫 How to reach me: **shekharvrm47@gmail.com**
+- 📝 Checkout my **[Resume]**
 <!-- - 🤔 I’m looking for help with -->
 <!-- - ⚡ Fun fact: -->
 <!-- - 🤔 I’m looking for help with Statistics -->
@@ -50,8 +51,12 @@
 
 ## :hammer_and_wrench: Skillset
 
-### :computer: Programming Languages -  Python , C
-### :computer: Embedded Systems -  STM32 , Arduino/AVR
+<ul>
+<li> :computer: <b>Programming Languages</b> -  Python , C </li>
+<li> :microscope: <b>Embedded Systems</b> -  STM32, Raspberry Pi, Arduino/AVR </li>
+<li> :toolbox: <b>Tools</b> -  GIT, KiCad, QT/QML(Python)</li>
+<li> :electron: <b>Technologies</b> -  USB, MIPI-DSI</li>
+</ul>
 
 ### :zap: Recent Activity:
 
@@ -74,3 +79,4 @@
 [instagram]: https://www.instagram.com/shekhuverma_
 [linkedin]: https://www.linkedin.com/in/shekhar-verma-626887137
 [Inochi Care]:https://www.inochihealthcare.com
+[Resume]:https://github.com
