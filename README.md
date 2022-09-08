@@ -53,10 +53,10 @@
 
 <ul>
 <li> :computer: <b>Programming Languages</b> -  Python , C </li>
-<li> :microscope: <b>Embedded Systems</b> -  STM32, Raspberry Pi, Arduino/AVR </li>
-<li> :toolbox: <b>Tools</b> -  GIT, KiCad, QT/QML(Python)</li>
+<li> :microscope: <b>Embedded Systems</b> -  STM32, RP2040, Raspberry Pi, Arduino/AVR </li>
+<li> :toolbox: <b>Tools</b> -  Git, KiCad, QT/QML(Python)</li>
+<li> :octocat: <b>FrameWorks/Libraries</b> -  OPENCV, TensorFlow, Pandas, Matplotlib </li>
 <li> :electron: <b>Technologies/Protocols</b> -  USB, MIPI-DSI</li>
-<li> :octocat: <b>FrameWorks</b> -  Pandas, Matplotlib, TensorFlow </li>
 </ul>
 
 ### :zap: Recent Activity:
@@ -80,4 +80,4 @@
 [instagram]: https://www.instagram.com/shekhuverma_
 [linkedin]: https://www.linkedin.com/in/shekhar-verma-626887137
 [Inochi Care]:https://www.inochihealthcare.com
-[Resume]:https://github.com/shekhuverma_
+[Resume]:https://drive.google.com/file/d/1lnMaPUNsXND_BFSwy26WZ-SjUK_VCZs6/view
