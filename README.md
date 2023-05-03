@@ -1,6 +1,6 @@
 <!-- Heading -->
 <h1 align="center">Hi, I'm Shekhar Verma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-<h3 align="center">Engineer : Solving Problems you didn't know existed </h3>
+<h3 align="center">Engineer : Solving Problems you didn't know exists </h3>
 
 <!-- Badges -->
 <!-- <p align='center'>
