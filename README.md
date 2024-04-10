@@ -32,7 +32,7 @@
 <!-- About me -->
 ### :scientist: About Me:
 - 🔭 I’m currently working at **[Inochi Care]**
-- 🌱 I’m currently learning about Interfacing custom USB endpoints using python!
+- 🌱 I’m currently learning Rust!
 - 💬 Brainstorm with me over tech and problem solving to make life easier!
 - 👯 I’m looking to collaborate on **some combination of code and machine** :robot:
 - 💬 Ask me about Computer vision, Embedded systems or any other random stuff always happy to help :smile:
