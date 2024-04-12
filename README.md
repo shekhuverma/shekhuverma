@@ -37,7 +37,7 @@
 - 👯 I’m looking to collaborate on **some combination of code and machine** :robot:
 - 💬 Ask me about Computer vision, Embedded systems or any other random stuff always happy to help :smile:
 - 📫 How to reach me: **shekharvrm47@gmail.com**
-- 📝 Checkout my **[Resume]**
+<!-- - 📝 Checkout my **[Resume]** -->
 <!-- - 🤔 I’m looking for help with -->
 <!-- - ⚡ Fun fact: -->
 <!-- - 🤔 I’m looking for help with Statistics -->
