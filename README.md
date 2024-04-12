@@ -52,11 +52,13 @@
 ## :hammer_and_wrench: Skillset
 
 <ul>
-<li> :computer: <b>Programming Languages</b> -  Python , C </li>
-<li> :microscope: <b>Embedded Systems</b> -  STM32, RP2040, Raspberry Pi, Arduino/AVR </li>
+<li> :computer: <b>Programming Languages</b> -  Python, C, Rust </li>
+<li> :microscope: <b>Embedded Systems</b> -  STM32, NXP i.MX RT, RP2040, Raspberry Pi, Arduino/AVR </li>
 <li> :toolbox: <b>Tools</b> -  Git, KiCad, QT/QML(Python)</li>
-<li> :octocat: <b>FrameWorks/Libraries</b> -  OPENCV, TensorFlow, Pandas, Matplotlib </li>
-<li> :electron: <b>Technologies/Protocols</b> -  USB, MIPI-DSI</li>
+<li> :octocat: <b>FrameWorks/Libraries</b> -  FastAPI, QT/QML, OpenCV, TensorFlow, Flutter, Pyqt5 </li>
+<li> :electron: <b>Technologies/Protocols</b> -  USB, MIPI-DSI, I2C, SPI, UART</li>
+<li> ☁️ <b>Cloud</b> - AWS EC2, DynamoDB, RDS, Lightsail
+<li> 📚 <b> Database</b> - PostgreSQL, MongoDB</li>
 </ul>
 
 ### :zap: Recent Activity:
