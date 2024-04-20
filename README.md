@@ -64,7 +64,7 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/farmerkeith/BMP280-library/issues/1) in [farmerkeith/BMP280-library](https://github.com/farmerkeith/BMP280-library)
+1. 🗣 Commented on [#12220](https://github.com/pytest-dev/pytest/pull/12220#issuecomment-2067690868) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
 <!--END_SECTION:activity-->
 
 
