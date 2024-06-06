@@ -64,7 +64,7 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12220](https://github.com/pytest-dev/pytest/pull/12220#issuecomment-2078843621) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+1. 🗣 Commented on [#948](https://github.com/tiangolo/sqlmodel/issues/948#issuecomment-2151922747) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
 <!--END_SECTION:activity-->
 
 
