@@ -64,7 +64,7 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#948](https://github.com/tiangolo/sqlmodel/issues/948#issuecomment-2152132132) in [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel)
+1. 🗣 Commented on [#3292](https://github.com/tox-dev/tox/issues/3292#issuecomment-2162520107) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
 
 
