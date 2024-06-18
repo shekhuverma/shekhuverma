@@ -64,7 +64,7 @@
 ### :zap: Recent Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3292](https://github.com/tox-dev/tox/issues/3292#issuecomment-2162520107) in [tox-dev/tox](https://github.com/tox-dev/tox)
+1. 🗣 Commented on [#3292](https://github.com/tox-dev/tox/issues/3292#issuecomment-2175477253) in [tox-dev/tox](https://github.com/tox-dev/tox)
 <!--END_SECTION:activity-->
 
 
